@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-05T18:36:30 IST" name="Suite" finished-at="2024-08-05T18:36:42 IST" duration-ms="11957">
+    <groups>
+    </groups>
+    <test started-at="2024-08-05T18:36:30 IST" name="Test" finished-at="2024-08-05T18:36:42 IST" duration-ms="11957">
+      <class name="pac1.OpenCartTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:pac1.OpenCartTest@25f4878b]" started-at="2024-08-05T18:36:30 IST" name="beforeMethod" finished-at="2024-08-05T18:36:37 IST" duration-ms="6904" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyTitleTest()[pri:0, instance:pac1.OpenCartTest@25f4878b]" started-at="2024-08-05T18:36:37 IST" name="verifyTitleTest" finished-at="2024-08-05T18:36:37 IST" duration-ms="93" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitleTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:pac1.OpenCartTest@25f4878b]" started-at="2024-08-05T18:36:37 IST" name="afterMethod" finished-at="2024-08-05T18:36:38 IST" duration-ms="366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:pac1.OpenCartTest@25f4878b]" started-at="2024-08-05T18:36:38 IST" name="beforeMethod" finished-at="2024-08-05T18:36:41 IST" duration-ms="3662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyLogoTest()[pri:1, instance:pac1.OpenCartTest@25f4878b]" started-at="2024-08-05T18:36:41 IST" name="verifyLogoTest" finished-at="2024-08-05T18:36:42 IST" duration-ms="170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogoTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:pac1.OpenCartTest@25f4878b]" started-at="2024-08-05T18:36:42 IST" name="afterMethod" finished-at="2024-08-05T18:36:42 IST" duration-ms="439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- pac1.OpenCartTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
